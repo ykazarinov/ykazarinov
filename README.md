@@ -5,6 +5,13 @@ My tech stack at the moment:
 - REST API, Agile, SCRUM, Trello, Git, Jest, Figma
 - CMS: Wordpress + DIVI
 
+Here are some of my projects:
+- https://hrnet-five.vercel.app/ 
+- https://argentbank.vercel.app/ (login: steve@rogers.com, password: password456)
+- https://sportsee-gold.vercel.app/
+- https://kasa-orcin.vercel.app/
+- https://petcharactercreator.vercel.app/
+
 I am open to the possibility of joining an IT company to work in a team on interesting projects as a React Front End Developer.
 To contact me, you can write to me on LinkedIn: https://www.linkedin.com/in/yanek-kazarinov-88ba8b5b/
 
