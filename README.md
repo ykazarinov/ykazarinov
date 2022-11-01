@@ -6,11 +6,11 @@ My tech stack at the moment:
 - CMS: Wordpress + DIVI
 
 Here are some of my projects:
-- https://hrnet-five.vercel.app/ (login: steve@rogers.com, password: password456) 
-- https://argentbank.vercel.app/ (login: steve@rogers.com, password: password456)
-- https://sportsee-gold.vercel.app/
-- https://kasa-orcin.vercel.app/
-- https://petcharactercreator.vercel.app/
+- https://hrnet-five.vercel.app/ (login: steve@rogers.com, password: password456) code: https://github.com/ykazarinov/kazarinov_yanek_14_HrNet_062022
+- https://argentbank.vercel.app/ (login: steve@rogers.com, password: password456) code: https://github.com/ykazarinov/kazarinov_yanek_13_code_phase_1_062022
+- https://sportsee-gold.vercel.app/ code: https://github.com/ykazarinov/YanekKazarinov_12_03052022
+- https://kasa-orcin.vercel.app/ code: https://github.com/ykazarinov/YanekKazarinov_11_05042022
+- https://petcharactercreator.vercel.app/ code: https://github.com/ykazarinov/PetCharacterCreator
 
 I am open to the possibility of joining an IT company to work in a team on interesting projects as a React Front End Developer.
 To contact me, you can write to me on LinkedIn: https://www.linkedin.com/in/yanek-kazarinov-88ba8b5b/
