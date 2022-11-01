@@ -6,7 +6,7 @@ My tech stack at the moment:
 - CMS: Wordpress + DIVI
 
 Here are some of my projects:
-- https://hrnet-five.vercel.app/ 
+- https://hrnet-five.vercel.app/ (login: steve@rogers.com, password: password456) 
 - https://argentbank.vercel.app/ (login: steve@rogers.com, password: password456)
 - https://sportsee-gold.vercel.app/
 - https://kasa-orcin.vercel.app/
