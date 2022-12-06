@@ -6,6 +6,7 @@ My tech stack at the moment:
 - CMS: Wordpress + DIVI
 
 Here are some of my projects:
+- https://pizza-express.vercel.app/ code: https://github.com/ykazarinov/Pizza-Express.git
 - https://hrnet-five.vercel.app/ (login: steve@rogers.com, password: password456) code: https://github.com/ykazarinov/kazarinov_yanek_14_HrNet_062022
 - https://argentbank.vercel.app/ (login: steve@rogers.com, password: password456) code: https://github.com/ykazarinov/kazarinov_yanek_13_code_phase_1_062022
 - https://sportsee-gold.vercel.app/ code: https://github.com/ykazarinov/YanekKazarinov_12_03052022
