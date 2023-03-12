@@ -13,6 +13,8 @@ Here are some of my projects:
 - https://kasa-orcin.vercel.app/ code: https://github.com/ykazarinov/YanekKazarinov_11_05042022
 - https://petcharactercreator.vercel.app/ code: https://github.com/ykazarinov/PetCharacterCreator
 
+You can find a detailed portfolio and information about me at https://artfish.pro/
+
 I am open to the possibility of joining an IT company to work in a team on interesting projects as a React Front End Developer.
 To contact me, you can write to me on LinkedIn: https://www.linkedin.com/in/yanek-kazarinov-88ba8b5b/
 
